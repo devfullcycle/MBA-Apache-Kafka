@@ -1,0 +1,2 @@
+- adicionar link do projeto https://github.com/rlanhellas/kafka-producer-golang
+- remover timeframe do vídeo de 13:32 até 15:03
